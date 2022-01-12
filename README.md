@@ -4,7 +4,7 @@
 
 This project is a virtual assistant based on artificial intelligence to help mainly Alzheimer's patients.
 
-It's trained to specialize as a virtual assistant in people who have Alzheimer's symptoms and require therapy, Lenobit is designed so that independently under the modality of Deep Learning it reconstructs all the information that the patient is degeneratively losing due to their disease, at the same time. when interacting with his patient as a virtual assistant, he asks patients questions in order to create cognitive therapies for neural reconnections, his artificial intelligence model keeps him constantly growing and evolving, providing a better user experience to the patient in the weather.
+It's trained to specialize as a virtual assistant in people who have Alzheimer's symptoms and require therapy, Lenobit is designed so that independently under the modality of Deep Learning it reconstructs all the information that the patient is degeneratively losing due to their disease, at the same time. when interacting with his patient as a virtual assistant, he asks patients questions in order to create cognitive therapies for neural reconnections, his artificial intelligence model keeps him constantly growing and evolving, providing a better user experience to the patient.
 
 
 <h1> Lenobit has the following features:</h1>
